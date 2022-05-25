@@ -32,3 +32,6 @@
 
 ### 11、Youdao Translate.alfredworkflow
 #### 有道翻译
+
+### 12、sequence.alfredworkflow
+#### 生成序列
